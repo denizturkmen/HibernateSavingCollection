@@ -1,2 +1,0 @@
-# HibernateSavingCollection
-s
